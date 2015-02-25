@@ -19,3 +19,8 @@
 1. [Domain-Driven Design - Eric Evans](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
 2. [Building Microservices - Sam Newman](http://www.amazon.com/gp/product/1491950358?ie=UTF8&tag=martinfowlerc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1491950358)
 3. [Antifragile Software - Building Adaptable Software with Microservices](https://leanpub.com/antifragilesoftware)
+
+## Events
+1. [O'Reilly Software Architecture Conference](http://softwarearchitecturecon.com/sa2015)
+2. [Microservices Meetup Group - Bay Area](http://www.meetup.com/microservices/)
+3. [List of Software Architecture oriented conferences on Lynard.com](http://lanyrd.com/topics/software-architecture/)
