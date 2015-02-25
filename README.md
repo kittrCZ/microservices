@@ -24,3 +24,4 @@
 1. [O'Reilly Software Architecture Conference](http://softwarearchitecturecon.com/sa2015)
 2. [Microservices Meetup Group - Bay Area](http://www.meetup.com/microservices/)
 3. [List of Software Architecture oriented conferences on Lynard.com](http://lanyrd.com/topics/software-architecture/)
+4. [The Conference on Innovative Data Systems Research](http://www.cidrdb.org/)
