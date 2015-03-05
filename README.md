@@ -20,7 +20,8 @@
 1. [Domain-Driven Design - Eric Evans](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
 2. [Building Microservices - Sam Newman](http://www.amazon.com/gp/product/1491950358?ie=UTF8&tag=martinfowlerc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1491950358)
 3. [Antifragile Software - Building Adaptable Software with Microservices](https://leanpub.com/antifragilesoftware)
-4. [ Building Microservices - Designing Fine-Grained Systems By Sam Newman](http://shop.oreilly.com/product/0636920033158.do) - Preview in resources
+4. [Building Microservices - Designing Fine-Grained Systems By Sam Newman](http://shop.oreilly.com/product/0636920033158.do) - Preview in resources
+5. [The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise ](http://theartofscalability.com/)
 
 ## Events
 1. [O'Reilly Software Architecture Conference](http://softwarearchitecturecon.com/sa2015)
