@@ -11,6 +11,7 @@
 
 ## Presentations & Videos
 1. [Developing applications with a microservice architecture](http://www.slideshare.net/chris.e.richardson/developing-apps-with-a-microservice-architecture-svforum-microservices-meetup)
+2. [Scaling Gilt: from monolith ruby app to micro service scala service architecture](http://www.slideshare.net/LappleApple/gilt-from-monolith-ruby-app-to-micro-service-scala-service-architectur)e
 
 ## Tools, Code and Tutorials
 1. [Netflix Open Source Software Center](http://netflix.github.io/#repo)
