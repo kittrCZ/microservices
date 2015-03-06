@@ -8,10 +8,16 @@
 5. [Microservices: Four Essential Checklists when Getting Started](http://thenewstack.io/microservices-four-essential-checklists-getting-started/)
 6. [Microservices: Decomposing Applications for Deployability and Scalability](http://www.infoq.com/articles/microservices-intro)
 7. [Microservices - Not a free lunch!](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html)
+8. [The Scale Cube](http://microservices.io/articles/scalecube.html)
+9. [Cracking Microservices practices](http://jaxenter.com/cracking-microservices-practices-107924.html)
+10. [Failing at Microservices.](https://rclayton.silvrback.com/failing-at-microservices)
+11. [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 
 ## Presentations & Videos
 1. [Developing applications with a microservice architecture](http://www.slideshare.net/chris.e.richardson/developing-apps-with-a-microservice-architecture-svforum-microservices-meetup)
-2. [Scaling Gilt: from monolith ruby app to micro service scala service architecture](http://www.slideshare.net/LappleApple/gilt-from-monolith-ruby-app-to-micro-service-scala-service-architectur)e
+2. [Scaling Gilt: from monolith ruby app to micro service scala service architecture](http://www.slideshare.net/LappleApple/gilt-from-monolith-ruby-app-to-micro-service-scala-service-architectur)
+3. [James Lewis - Microservices](http://2012.33degree.org/pdf/JamesLewisMicroServices.pdf)
+4. [Microservice Architectures - Dr. Andreas Schroede](http://www.pst.ifi.lmu.de/Lehre/wise-14-15/mse/microservice-architectures.pdf)
 
 ## Tools, Code and Tutorials
 1. [Netflix Open Source Software Center](http://netflix.github.io/#repo)
