@@ -7,6 +7,7 @@
 4. [Reactive Frameworks, Microservices, Docker and Other Necessities for Scalable Cloud Native Applications](http://thenewstack.io/reactive-frameworks-microservices-docker-and-other-necessities-for-scalable-cloud-native-applications/)
 5. [Microservices: Four Essential Checklists when Getting Started](http://thenewstack.io/microservices-four-essential-checklists-getting-started/)
 6. [Microservices: Decomposing Applications for Deployability and Scalability](http://www.infoq.com/articles/microservices-intro)
+7. [Microservices - Not a free lunch!](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html)
 
 ## Presentations & Videos
 1. [Developing applications with a microservice architecture](http://www.slideshare.net/chris.e.richardson/developing-apps-with-a-microservice-architecture-svforum-microservices-meetup)
