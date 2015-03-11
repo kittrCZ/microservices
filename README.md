@@ -12,6 +12,7 @@
 9. [Cracking Microservices practices](http://jaxenter.com/cracking-microservices-practices-107924.html)
 10. [Failing at Microservices.](https://rclayton.silvrback.com/failing-at-microservices)
 11. [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
+12. [Adopting Microservices at Netflix: Lessons for Team and Process Design ](http://nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
 
 ## Presentations & Videos
 1. [Developing applications with a microservice architecture](http://www.slideshare.net/chris.e.richardson/developing-apps-with-a-microservice-architecture-svforum-microservices-meetup)
