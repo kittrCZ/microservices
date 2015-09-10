@@ -13,7 +13,7 @@
 10. [Failing at Microservices.](https://rclayton.silvrback.com/failing-at-microservices)
 11. [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 12. [Adopting Microservices at Netflix: Lessons for Team and Process Design ](http://nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
-13. [How we ended up with microservices](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?) - 
+13. [How we ended up with microservices](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?) - Story from SoundCloud about migration to microservices
 
 ## Presentations & Videos
 1. [Developing applications with a microservice architecture](http://www.slideshare.net/chris.e.richardson/developing-apps-with-a-microservice-architecture-svforum-microservices-meetup)
@@ -26,6 +26,9 @@
 1. [Netflix Open Source Software Center](http://netflix.github.io/#repo)
 2. [AnswersAWS](http://answersforaws.com/) - Answers for AWS is a third-party consulting company focused on helping startups in Silicon Valley be successful on AWS.
 3. [Livingsocial.com - SOA Series Part 1: The What, the Why, and the Rules of Engagement](https://techblog.livingsocial.com/blog/2014/05/06/soa-the-what-the-why-and-the-rules-of-engagement/)
+4. [Building Products at SoundCloud —Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith)
+5. [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith)
+6. [Building Products at SoundCloud—Part III: Microservices in Scala and Finagle](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-3-microservices-in-scala-and-finagle)
 
 ## Discovery services
 
