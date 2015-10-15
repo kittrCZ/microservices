@@ -14,6 +14,7 @@
 11. [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 12. [Adopting Microservices at Netflix: Lessons for Team and Process Design ](http://nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
 13. [How we ended up with microservices](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?) - Story from SoundCloud about migration to microservices
+14. [Data Infrastructure at IFTTT](https://medium.com/engineering-at-ifttt/data-infrastructure-at-ifttt-35414841f9b5)
 
 ## Presentations & Videos
 1. [Developing applications with a microservice architecture](http://www.slideshare.net/chris.e.richardson/developing-apps-with-a-microservice-architecture-svforum-microservices-meetup)
