@@ -16,6 +16,8 @@
 13. [How we ended up with microservices](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?) - Story from SoundCloud about migration to microservices
 14. [Data Infrastructure at IFTTT](https://medium.com/engineering-at-ifttt/data-infrastructure-at-ifttt-35414841f9b5)
 15. [The microservices cargo cult](http://www.stavros.io/posts/microservices-cargo-cult/)
+16. [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
+17. 
 
 ## Presentations & Videos
 1. [Developing applications with a microservice architecture](http://www.slideshare.net/chris.e.richardson/developing-apps-with-a-microservice-architecture-svforum-microservices-meetup)
@@ -39,6 +41,7 @@
 2. [Apache Zookeepr](https://zookeeper.apache.org/)
   1. [Zookeeper with node.JS on OS X - Part 1: Installing Zookeeper - 2012](http://blog.vctr.me/posts/zookeeper-node-part-1.html)
   2. [ZooKeeper Cluster Setup](http://myjeeva.com/zookeeper-cluster-setup.html)
+3. [SmartStack: Service Discovery in the Cloud](http://nerds.airbnb.com/smartstack-service-discovery-cloud/)
 
 ## Books
 1. [Domain-Driven Design - Eric Evans](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
