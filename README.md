@@ -32,6 +32,7 @@
 4. [Building Products at SoundCloud —Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith)
 5. [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith)
 6. [Building Products at SoundCloud—Part III: Microservices in Scala and Finagle](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-3-microservices-in-scala-and-finagle)
+7. [HAproxy in the era of Microservices](http://47ron.in/blog/2015/10/23/haproxy-in-the-era-of-microservices.html)
 
 ## Discovery services
 
