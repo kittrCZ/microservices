@@ -17,6 +17,7 @@
 14. [Data Infrastructure at IFTTT](https://medium.com/engineering-at-ifttt/data-infrastructure-at-ifttt-35414841f9b5)
 15. [The microservices cargo cult](http://www.stavros.io/posts/microservices-cargo-cult/)
 16. [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
+17. [Microservices at Constant Contact – a view from the trenches](http://techblog.constantcontact.com/software-development/implementing-microservices-at-constant-contact/?utm_source=LinkedIn%20&utm_medium=Sponsored%20Ads&utm_campaign=Microservices)
 
 ## Presentations & Videos
 1. [Developing applications with a microservice architecture](http://www.slideshare.net/chris.e.richardson/developing-apps-with-a-microservice-architecture-svforum-microservices-meetup)
